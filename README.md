@@ -32,3 +32,18 @@ The system was created to address common challenges in programming education. St
 - Host the middleware on a server that can communicate with the Learning Management System.
 - Upload the SCORM package to the Learning Management System and assign it to students.
 - Monitor student activity through the log data captured by the system.
+
+## CourseLab Source Files
+
+The source files for the SCORM based editor used in this project are available in a public repository.  
+These files include CourseLab project components, templates, and JavaScript scripts that support the interactive coding environment and its connection to the middleware.
+
+You can access and download the full CourseLab source at the link below:
+
+**GitHub Repository**  
+[https://github.com/dpurbohadi/W-Pro-Editor](https://github.com/dpurbohadi/W-Pro-Editor)
+
+**CourseLab Software**
+[https://courselab.software.informer.com/]CourseLab 3.1
+
+
