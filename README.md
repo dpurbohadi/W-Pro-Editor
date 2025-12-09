@@ -42,8 +42,8 @@ You can access and download the full CourseLab source at the link below:
 
 **LINK**  
 
-[https://github.com/dpurbohadi/W-Pro-Editor](https://github.com/dpurbohadi/W-Pro-Editor/tree/main/SCORM)
+[Example SCORM Module](https://github.com/dpurbohadi/W-Pro-Editor/tree/main/SCORM)
 
-[https://courselab.software.informer.com/](https://courselab.software.informer.com/)
+[CourseLab Download](https://courselab.software.informer.com/)
 
 
