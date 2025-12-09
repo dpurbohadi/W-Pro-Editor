@@ -44,6 +44,6 @@ You can access and download the full CourseLab source at the link below:
 [https://github.com/dpurbohadi/W-Pro-Editor](https://github.com/dpurbohadi/W-Pro-Editor)
 
 **CourseLab Software**
-[https://courselab.software.informer.com/]CourseLab 3.1
+[https://courselab.software.informer.com/](CourseLab 3.1)
 
 
