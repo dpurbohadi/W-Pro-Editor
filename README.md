@@ -1,5 +1,12 @@
 # W-Pro-Editor
 
+![Version](https://img.shields.io/github/v/release/dpurbohadi/W-Pro-Editor)
+![Last Commit](https://img.shields.io/github/last-commit/dpurbohadi/W-Pro-Editor)
+![Issues](https://img.shields.io/github/issues/dpurbohadi/W-Pro-Editor)
+![Stars](https://img.shields.io/github/stars/dpurbohadi/W-Pro-Editor)
+![Forks](https://img.shields.io/github/forks/dpurbohadi/W-Pro-Editor)
+![License](https://img.shields.io/github/license/dpurbohadi/W-Pro-Editor)
+
 **Intelligent Tutoring System for Web Programming**
 
 **Overview**
@@ -27,8 +34,22 @@ The system was created to address common challenges in programming education. St
 
 **How to Use**
 
-- Prepare learning materials with the SCORM editor.
+- Prepare learning materials with the SCORM editor (CourseLab 3.x).
 - Add prompts in CourseLab to guide the behaviour of the artificial intelligence component.
 - Host the middleware on a server that can communicate with the Learning Management System.
 - Upload the SCORM package to the Learning Management System and assign it to students.
 - Monitor student activity through the log data captured by the system.
+
+## CourseLab Source Files
+
+The source files for the SCORM based editor used in this project are available in a public repository.  
+These files include CourseLab project components, templates, and JavaScript scripts that support the interactive coding environment and its connection to the middleware.
+
+You can access and download the full CourseLab source at the link below:
+
+[Example SCORM Module](https://github.com/dpurbohadi/W-Pro-Editor/tree/main/SCORM)
+
+[CourseLab Download](https://courselab.software.informer.com/)
+
+
+
