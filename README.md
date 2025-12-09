@@ -28,7 +28,7 @@ The system was created to address common challenges in programming education. St
 **How to Use**
 
 - Prepare learning materials with the SCORM editor.
-- Add prompts in CourseLab to guide the behaviour of the artificial intelligence component.
+- Add prompts in CourseLab 3.x to guide the behaviour of the artificial intelligence component.
 - Host the middleware on a server that can communicate with the Learning Management System.
 - Upload the SCORM package to the Learning Management System and assign it to students.
 - Monitor student activity through the log data captured by the system.
