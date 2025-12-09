@@ -40,10 +40,9 @@ These files include CourseLab project components, templates, and JavaScript scri
 
 You can access and download the full CourseLab source at the link below:
 
-**GitHub Repository**  
-[https://github.com/dpurbohadi/W-Pro-Editor](https://github.com/dpurbohadi/W-Pro-Editor)
+**LINK**  
+[[https://github.com/dpurbohadi/W-Pro-Editor](https://github.com/dpurbohadi/W-Pro-Editor/tree/main/SCORM)]
 
-**CourseLab Software**
-[https://courselab.software.informer.com/](CourseLab 3.1)
+[https://courselab.software.informer.com/](https://courselab.software.informer.com/)
 
 
