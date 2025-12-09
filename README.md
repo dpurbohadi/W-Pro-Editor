@@ -38,12 +38,18 @@ The system was created to address common challenges in programming education. St
 The source files for the SCORM based editor used in this project are available in a public repository.  
 These files include CourseLab project components, templates, and JavaScript scripts that support the interactive coding environment and its connection to the middleware.
 
+**Badge**
+
+![Version](https://img.shields.io/github/v/release/dpurbohadi/W-Pro-Editor)
+![Last Commit](https://img.shields.io/github/last-commit/dpurbohadi/W-Pro-Editor)
+![Issues](https://img.shields.io/github/issues/dpurbohadi/W-Pro-Editor)
+![Stars](https://img.shields.io/github/stars/dpurbohadi/W-Pro-Editor)
+![Forks](https://img.shields.io/github/forks/dpurbohadi/W-Pro-Editor)
+![License](https://img.shields.io/github/license/dpurbohadi/W-Pro-Editor)
+
 You can access and download the full CourseLab source at the link below:
 
-**LINK**  
-
 [Example SCORM Module](https://github.com/dpurbohadi/W-Pro-Editor/tree/main/SCORM)
-
 [CourseLab Download](https://courselab.software.informer.com/)
 
 
