@@ -1,10 +1,7 @@
 # W-Pro-Editor
 
-![Version](https://img.shields.io/github/v/release/dpurbohadi/W-Pro-Editor)
 ![Last Commit](https://img.shields.io/github/last-commit/dpurbohadi/W-Pro-Editor)
-![Issues](https://img.shields.io/github/issues/dpurbohadi/W-Pro-Editor)
 ![Stars](https://img.shields.io/github/stars/dpurbohadi/W-Pro-Editor)
-![Forks](https://img.shields.io/github/forks/dpurbohadi/W-Pro-Editor)
 ![License](https://img.shields.io/github/license/dpurbohadi/W-Pro-Editor)
 
 **Intelligent Tutoring System for Web Programming**
